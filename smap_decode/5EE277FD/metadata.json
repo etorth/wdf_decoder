@@ -1,0 +1,28 @@
+{
+  "id": "5EE277FD",
+  "uid": 1591900157,
+  "offset": 10272912,
+  "size": 234208,
+  "space": 0,
+  "raw": "raw/5EE277FD.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 372,
+  "height": 366,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 372,
+      "height": 366,
+      "file": "5EE277FD/d00_f000.png"
+    }
+  ],
+  "metadata": "5EE277FD/metadata.json"
+}

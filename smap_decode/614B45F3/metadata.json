@@ -1,0 +1,28 @@
+{
+  "id": "614B45F3",
+  "uid": 1632323059,
+  "offset": 10688648,
+  "size": 177668,
+  "space": 0,
+  "raw": "raw/614B45F3.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 405,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 405,
+      "height": 309,
+      "file": "614B45F3/d00_f000.png"
+    }
+  ],
+  "metadata": "614B45F3/metadata.json"
+}

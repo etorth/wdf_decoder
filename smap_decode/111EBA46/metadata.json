@@ -1,0 +1,28 @@
+{
+  "id": "111EBA46",
+  "uid": 287226438,
+  "offset": 1439072,
+  "size": 151128,
+  "space": 0,
+  "raw": "raw/111EBA46.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 400,
+  "height": 200,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 400,
+      "height": 200,
+      "file": "111EBA46/d00_f000.png"
+    }
+  ],
+  "metadata": "111EBA46/metadata.json"
+}

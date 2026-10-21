@@ -1,0 +1,28 @@
+{
+  "id": "78BF64A4",
+  "uid": 2025809060,
+  "offset": 12529152,
+  "size": 143120,
+  "space": 0,
+  "raw": "raw/78BF64A4.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 450,
+  "height": 338,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 450,
+      "height": 338,
+      "file": "78BF64A4/d00_f000.png"
+    }
+  ],
+  "metadata": "78BF64A4/metadata.json"
+}

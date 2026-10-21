@@ -1,0 +1,28 @@
+{
+  "id": "58BCCC17",
+  "uid": 1488768023,
+  "offset": 9316328,
+  "size": 449380,
+  "space": 0,
+  "raw": "raw/58BCCC17.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 600,
+  "height": 400,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 400,
+      "file": "58BCCC17/d00_f000.png"
+    }
+  ],
+  "metadata": "58BCCC17/metadata.json"
+}

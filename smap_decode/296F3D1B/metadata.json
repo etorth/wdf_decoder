@@ -1,0 +1,28 @@
+{
+  "id": "296F3D1B",
+  "uid": 695155995,
+  "offset": 4576612,
+  "size": 153396,
+  "space": 0,
+  "raw": "raw/296F3D1B.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 543,
+  "height": 321,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 543,
+      "height": 321,
+      "file": "296F3D1B/d00_f000.png"
+    }
+  ],
+  "metadata": "296F3D1B/metadata.json"
+}

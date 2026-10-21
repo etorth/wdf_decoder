@@ -1,0 +1,28 @@
+{
+  "id": "6B2B2EA7",
+  "uid": 1797992103,
+  "offset": 12116196,
+  "size": 115068,
+  "space": 0,
+  "raw": "raw/6B2B2EA7.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 404,
+  "height": 306,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 404,
+      "height": 306,
+      "file": "6B2B2EA7/d00_f000.png"
+    }
+  ],
+  "metadata": "6B2B2EA7/metadata.json"
+}

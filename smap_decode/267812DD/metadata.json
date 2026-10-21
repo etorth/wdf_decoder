@@ -1,0 +1,28 @@
+{
+  "id": "267812DD",
+  "uid": 645403357,
+  "offset": 3987600,
+  "size": 369412,
+  "space": 0,
+  "raw": "raw/267812DD.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 576,
+  "height": 357,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 576,
+      "height": 357,
+      "file": "267812DD/d00_f000.png"
+    }
+  ],
+  "metadata": "267812DD/metadata.json"
+}

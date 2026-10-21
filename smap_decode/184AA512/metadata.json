@@ -1,0 +1,28 @@
+{
+  "id": "184AA512",
+  "uid": 407545106,
+  "offset": 1702456,
+  "size": 144756,
+  "space": 0,
+  "raw": "raw/184AA512.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 475,
+  "height": 313,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 475,
+      "height": 313,
+      "file": "184AA512/d00_f000.png"
+    }
+  ],
+  "metadata": "184AA512/metadata.json"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "DF6D2B20",
+  "uid": 3748473632,
+  "offset": 22369492,
+  "size": 305492,
+  "space": 0,
+  "raw": "raw/DF6D2B20.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 576,
+  "height": 357,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 576,
+      "height": 357,
+      "file": "DF6D2B20/d00_f000.png"
+    }
+  ],
+  "metadata": "DF6D2B20/metadata.json"
+}

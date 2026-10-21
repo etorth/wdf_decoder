@@ -1,0 +1,28 @@
+{
+  "id": "AAE2D167",
+  "uid": 2866991463,
+  "offset": 16039024,
+  "size": 60484,
+  "space": 0,
+  "raw": "raw/AAE2D167.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 407,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 407,
+      "height": 309,
+      "file": "AAE2D167/d00_f000.png"
+    }
+  ],
+  "metadata": "AAE2D167/metadata.json"
+}

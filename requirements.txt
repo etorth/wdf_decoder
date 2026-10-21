@@ -1,0 +1,2 @@
+# Only needed by decode_resources.py for map stitching and image validation.
+Pillow>=10.0.0,<13.0.0

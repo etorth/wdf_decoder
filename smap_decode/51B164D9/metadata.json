@@ -1,0 +1,28 @@
+{
+  "id": "51B164D9",
+  "uid": 1370580185,
+  "offset": 8031760,
+  "size": 360544,
+  "space": 0,
+  "raw": "raw/51B164D9.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 576,
+  "height": 357,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 576,
+      "height": 357,
+      "file": "51B164D9/d00_f000.png"
+    }
+  ],
+  "metadata": "51B164D9/metadata.json"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "00000067",
+  "uid": 103,
+  "offset": 4949048,
+  "size": 4336,
+  "space": 0,
+  "raw": "raw/00000067.was",
+  "directions": 4,
+  "frames_per_direction": 1,
+  "width": 94,
+  "height": 78,
+  "x": 47,
+  "y": 81,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 18,
+      "y": 37,
+      "width": 60,
+      "height": 31,
+      "file": "00000067/d00_f000.png"
+    },
+    {
+      "index": 1,
+      "direction": 1,
+      "frame": 0,
+      "empty": false,
+      "x": 47,
+      "y": 50,
+      "width": 40,
+      "height": 47,
+      "file": "00000067/d01_f000.png"
+    },
+    {
+      "index": 2,
+      "direction": 2,
+      "frame": 0,
+      "empty": false,
+      "x": 42,
+      "y": 81,
+      "width": 60,
+      "height": 60,
+      "file": "00000067/d02_f000.png"
+    },
+    {
+      "index": 3,
+      "direction": 3,
+      "frame": 0,
+      "empty": false,
+      "x": -11,
+      "y": 66,
+      "width": 36,
+      "height": 52,
+      "file": "00000067/d03_f000.png"
+    }
+  ],
+  "metadata": "00000067/metadata.json"
+}

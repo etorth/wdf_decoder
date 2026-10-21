@@ -1,0 +1,28 @@
+{
+  "id": "C97CEECD",
+  "uid": 3380408013,
+  "offset": 19844532,
+  "size": 112244,
+  "space": 0,
+  "raw": "raw/C97CEECD.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 404,
+  "height": 306,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 404,
+      "height": 306,
+      "file": "C97CEECD/d00_f000.png"
+    }
+  ],
+  "metadata": "C97CEECD/metadata.json"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4B8C7EC9",
+  "uid": 1267498697,
+  "offset": 7899500,
+  "size": 132260,
+  "space": 0,
+  "raw": "raw/4B8C7EC9.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 337,
+  "height": 447,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 337,
+      "height": 447,
+      "file": "4B8C7EC9/d00_f000.png"
+    }
+  ],
+  "metadata": "4B8C7EC9/metadata.json"
+}

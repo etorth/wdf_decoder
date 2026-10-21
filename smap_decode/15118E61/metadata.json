@@ -1,0 +1,28 @@
+{
+  "id": "15118E61",
+  "uid": 353472097,
+  "offset": 1590200,
+  "size": 112256,
+  "space": 0,
+  "raw": "raw/15118E61.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 404,
+  "height": 306,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 404,
+      "height": 306,
+      "file": "15118E61/d00_f000.png"
+    }
+  ],
+  "metadata": "15118E61/metadata.json"
+}

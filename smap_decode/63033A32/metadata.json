@@ -1,0 +1,28 @@
+{
+  "id": "63033A32",
+  "uid": 1661155890,
+  "offset": 10866316,
+  "size": 163812,
+  "space": 0,
+  "raw": "raw/63033A32.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 475,
+  "height": 363,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 475,
+      "height": 363,
+      "file": "63033A32/d00_f000.png"
+    }
+  ],
+  "metadata": "63033A32/metadata.json"
+}

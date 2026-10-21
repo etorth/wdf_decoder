@@ -1,0 +1,28 @@
+{
+  "id": "DFE8D3CD",
+  "uid": 3756577741,
+  "offset": 22674984,
+  "size": 171036,
+  "space": 0,
+  "raw": "raw/DFE8D3CD.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 596,
+  "height": 297,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 596,
+      "height": 297,
+      "file": "DFE8D3CD/d00_f000.png"
+    }
+  ],
+  "metadata": "DFE8D3CD/metadata.json"
+}

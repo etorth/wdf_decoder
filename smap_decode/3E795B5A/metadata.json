@@ -1,0 +1,28 @@
+{
+  "id": "3E795B5A",
+  "uid": 1048140634,
+  "offset": 6462828,
+  "size": 119484,
+  "space": 0,
+  "raw": "raw/3E795B5A.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 405,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 405,
+      "height": 309,
+      "file": "3E795B5A/d00_f000.png"
+    }
+  ],
+  "metadata": "3E795B5A/metadata.json"
+}

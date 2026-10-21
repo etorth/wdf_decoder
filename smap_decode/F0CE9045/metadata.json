@@ -1,0 +1,28 @@
+{
+  "id": "F0CE9045",
+  "uid": 4040069189,
+  "offset": 23788728,
+  "size": 83104,
+  "space": 0,
+  "raw": "raw/F0CE9045.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 248,
+  "height": 349,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 248,
+      "height": 349,
+      "file": "F0CE9045/d00_f000.png"
+    }
+  ],
+  "metadata": "F0CE9045/metadata.json"
+}

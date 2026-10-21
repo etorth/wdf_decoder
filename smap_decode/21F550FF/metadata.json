@@ -1,0 +1,28 @@
+{
+  "id": "21F550FF",
+  "uid": 569725183,
+  "offset": 3164380,
+  "size": 120324,
+  "space": 0,
+  "raw": "raw/21F550FF.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 405,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 405,
+      "height": 309,
+      "file": "21F550FF/d00_f000.png"
+    }
+  ],
+  "metadata": "21F550FF/metadata.json"
+}

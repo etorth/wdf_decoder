@@ -1,0 +1,28 @@
+{
+  "id": "44FDBD2D",
+  "uid": 1157479725,
+  "offset": 6954204,
+  "size": 103136,
+  "space": 0,
+  "raw": "raw/44FDBD2D.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 247,
+  "height": 453,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 247,
+      "height": 453,
+      "file": "44FDBD2D/d00_f000.png"
+    }
+  ],
+  "metadata": "44FDBD2D/metadata.json"
+}

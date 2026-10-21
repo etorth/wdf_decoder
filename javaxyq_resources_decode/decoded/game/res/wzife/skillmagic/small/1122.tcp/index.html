@@ -1,0 +1,47 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>WDF sprite preview</title>
+<style>
+body{font:16px system-ui;background:#202124;color:#eee;margin:24px}
+#gallery{display:flex;flex-wrap:wrap;gap:16px}
+article{background:#303134;padding:12px;width:240px}
+canvas{width:240px;height:240px;object-fit:contain;
+background:repeating-conic-gradient(#555 0% 25%,#444 0% 50%) 0/16px 16px}
+select{margin:8px} a{color:#9cf}
+</style>
+<h1>WDF sprite preview</h1>
+<p>One card per resource. Select a direction; animations run at 10 fps
+(preview speed, not timing stored in the source). PNGs retain transparency.</p>
+<div id="gallery"></div>
+<script id="manifest" type="application/json">{"entries": [{"directions": 1, "frames_per_direction": 1, "width": 24, "height": 24, "x": 0, "y": 0, "frames": [{"index": 0, "direction": 0, "frame": 0, "empty": false, "x": 0, "y": 0, "width": 24, "height": 24, "file": "d00_f000.png"}], "metadata": "metadata.json", "id": "game/res/wzife/skillmagic/small/1122.tcp"}]}</script>
+<script>
+const manifest=JSON.parse(document.getElementById('manifest').textContent);
+for(const resource of manifest.entries){
+ if(!resource.frames) continue;
+ const card=document.createElement('article'), title=document.createElement('div');
+ title.textContent=resource.id+' / '+resource.directions+' directions';
+ const select=document.createElement('select');
+ for(let d=0;d<resource.directions;d++)select.add(new Option('Direction '+d,d));
+ const canvas=document.createElement('canvas'), ctx=canvas.getContext('2d');
+ const frames=resource.frames.filter(f=>!f.empty);
+ if(!frames.length)continue;
+ const left=Math.min(...frames.map(f=>-f.x)),top=Math.min(...frames.map(f=>-f.y));
+ canvas.width=Math.max(...frames.map(f=>f.width-f.x))-left;
+ canvas.height=Math.max(...frames.map(f=>f.height-f.y))-top;
+ const images=resource.frames.map(f=>{
+  if(f.empty)return null;
+  const image=new Image();image.src=f.file;return image;
+ });
+ let tick=0;
+ const link=document.createElement('a');link.href=resource.metadata;link.textContent='metadata';
+ card.append(title,select,link,canvas);document.getElementById('gallery').append(card);
+ function draw(){
+  const i=Number(select.value)*resource.frames_per_direction+tick%resource.frames_per_direction;
+  const f=resource.frames[i],image=images[i];
+  ctx.clearRect(0,0,canvas.width,canvas.height);
+  if(image&&image.complete&&image.naturalWidth)ctx.drawImage(image,-f.x-left,-f.y-top);
+  tick++;
+ }
+ setInterval(draw,100);draw();
+}
+</script>

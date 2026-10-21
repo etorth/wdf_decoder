@@ -1,0 +1,28 @@
+{
+  "id": "F8D4D447",
+  "uid": 4174697543,
+  "offset": 24348680,
+  "size": 120284,
+  "space": 0,
+  "raw": "raw/F8D4D447.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 404,
+  "height": 306,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 404,
+      "height": 306,
+      "file": "F8D4D447/d00_f000.png"
+    }
+  ],
+  "metadata": "F8D4D447/metadata.json"
+}

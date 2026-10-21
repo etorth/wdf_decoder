@@ -1,0 +1,28 @@
+{
+  "id": "B23B05EC",
+  "uid": 2990212588,
+  "offset": 16352428,
+  "size": 153832,
+  "space": 0,
+  "raw": "raw/B23B05EC.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 345,
+  "height": 309,
+  "x": 0,
+  "y": -1,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": -1,
+      "width": 345,
+      "height": 309,
+      "file": "B23B05EC/d00_f000.png"
+    }
+  ],
+  "metadata": "B23B05EC/metadata.json"
+}

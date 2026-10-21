@@ -1,0 +1,28 @@
+{
+  "id": "EADE2B36",
+  "uid": 3940428598,
+  "offset": 23632196,
+  "size": 156532,
+  "space": 0,
+  "raw": "raw/EADE2B36.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 543,
+  "height": 329,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 543,
+      "height": 329,
+      "file": "EADE2B36/d00_f000.png"
+    }
+  ],
+  "metadata": "EADE2B36/metadata.json"
+}

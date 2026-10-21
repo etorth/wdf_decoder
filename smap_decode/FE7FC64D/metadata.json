@@ -1,0 +1,28 @@
+{
+  "id": "FE7FC64D",
+  "uid": 4269786701,
+  "offset": 24468964,
+  "size": 118284,
+  "space": 0,
+  "raw": "raw/FE7FC64D.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 405,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 405,
+      "height": 309,
+      "file": "FE7FC64D/d00_f000.png"
+    }
+  ],
+  "metadata": "FE7FC64D/metadata.json"
+}

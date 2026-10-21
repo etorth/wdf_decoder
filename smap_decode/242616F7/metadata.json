@@ -1,0 +1,28 @@
+{
+  "id": "242616F7",
+  "uid": 606476023,
+  "offset": 3421468,
+  "size": 202936,
+  "space": 0,
+  "raw": "raw/242616F7.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 405,
+  "height": 306,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 405,
+      "height": 306,
+      "file": "242616F7/d00_f000.png"
+    }
+  ],
+  "metadata": "242616F7/metadata.json"
+}

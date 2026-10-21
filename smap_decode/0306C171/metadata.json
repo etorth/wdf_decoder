@@ -1,0 +1,28 @@
+{
+  "id": "0306C171",
+  "uid": 50774385,
+  "offset": 12,
+  "size": 155548,
+  "space": 0,
+  "raw": "raw/0306C171.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 550,
+  "height": 275,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 550,
+      "height": 275,
+      "file": "0306C171/d00_f000.png"
+    }
+  ],
+  "metadata": "0306C171/metadata.json"
+}

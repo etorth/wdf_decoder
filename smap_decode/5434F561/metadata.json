@@ -1,0 +1,28 @@
+{
+  "id": "5434F561",
+  "uid": 1412756833,
+  "offset": 9080576,
+  "size": 95036,
+  "space": 0,
+  "raw": "raw/5434F561.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 206,
+  "height": 329,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 206,
+      "height": 329,
+      "file": "5434F561/d00_f000.png"
+    }
+  ],
+  "metadata": "5434F561/metadata.json"
+}

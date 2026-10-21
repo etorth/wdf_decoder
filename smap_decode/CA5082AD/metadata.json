@@ -1,0 +1,28 @@
+{
+  "id": "CA5082AD",
+  "uid": 3394273965,
+  "offset": 20509128,
+  "size": 83304,
+  "space": 0,
+  "raw": "raw/CA5082AD.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 281,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 281,
+      "height": 309,
+      "file": "CA5082AD/d00_f000.png"
+    }
+  ],
+  "metadata": "CA5082AD/metadata.json"
+}

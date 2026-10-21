@@ -1,0 +1,28 @@
+{
+  "id": "C80D7A32",
+  "uid": 3356326450,
+  "offset": 19283216,
+  "size": 398468,
+  "space": 0,
+  "raw": "raw/C80D7A32.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 606,
+  "height": 397,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 606,
+      "height": 397,
+      "file": "C80D7A32/d00_f000.png"
+    }
+  ],
+  "metadata": "C80D7A32/metadata.json"
+}

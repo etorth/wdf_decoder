@@ -1,0 +1,28 @@
+{
+  "id": "302F9412",
+  "uid": 808424466,
+  "offset": 5028864,
+  "size": 143592,
+  "space": 0,
+  "raw": "raw/302F9412.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 366,
+  "height": 366,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 366,
+      "height": 366,
+      "file": "302F9412/d00_f000.png"
+    }
+  ],
+  "metadata": "302F9412/metadata.json"
+}

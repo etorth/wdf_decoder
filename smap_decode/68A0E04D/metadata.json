@@ -1,0 +1,28 @@
+{
+  "id": "68A0E04D",
+  "uid": 1755373645,
+  "offset": 11479500,
+  "size": 368840,
+  "space": 0,
+  "raw": "raw/68A0E04D.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 576,
+  "height": 357,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 576,
+      "height": 357,
+      "file": "68A0E04D/d00_f000.png"
+    }
+  ],
+  "metadata": "68A0E04D/metadata.json"
+}

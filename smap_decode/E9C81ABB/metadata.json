@@ -1,0 +1,28 @@
+{
+  "id": "E9C81ABB",
+  "uid": 3922205371,
+  "offset": 23484416,
+  "size": 147780,
+  "space": 0,
+  "raw": "raw/E9C81ABB.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 480,
+  "height": 300,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 480,
+      "height": 300,
+      "file": "E9C81ABB/d00_f000.png"
+    }
+  ],
+  "metadata": "E9C81ABB/metadata.json"
+}

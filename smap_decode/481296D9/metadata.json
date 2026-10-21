@@ -1,0 +1,28 @@
+{
+  "id": "481296D9",
+  "uid": 1209177817,
+  "offset": 7693048,
+  "size": 92544,
+  "space": 0,
+  "raw": "raw/481296D9.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 327,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 327,
+      "height": 309,
+      "file": "481296D9/d00_f000.png"
+    }
+  ],
+  "metadata": "481296D9/metadata.json"
+}

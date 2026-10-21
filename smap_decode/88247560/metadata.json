@@ -1,0 +1,28 @@
+{
+  "id": "88247560",
+  "uid": 2284090720,
+  "offset": 13451892,
+  "size": 149668,
+  "space": 0,
+  "raw": "raw/88247560.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 543,
+  "height": 314,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 543,
+      "height": 314,
+      "file": "88247560/d00_f000.png"
+    }
+  ],
+  "metadata": "88247560/metadata.json"
+}

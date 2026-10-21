@@ -1,0 +1,121 @@
+{
+  "directions": 1,
+  "frames_per_direction": 10,
+  "width": 248,
+  "height": 245,
+  "x": 125,
+  "y": 142,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 119,
+      "y": 142,
+      "width": 242,
+      "height": 242,
+      "file": "d00_f000.png"
+    },
+    {
+      "index": 1,
+      "direction": 0,
+      "frame": 1,
+      "empty": false,
+      "x": 119,
+      "y": 142,
+      "width": 242,
+      "height": 240,
+      "file": "d00_f001.png"
+    },
+    {
+      "index": 2,
+      "direction": 0,
+      "frame": 2,
+      "empty": false,
+      "x": 125,
+      "y": 142,
+      "width": 245,
+      "height": 245,
+      "file": "d00_f002.png"
+    },
+    {
+      "index": 3,
+      "direction": 0,
+      "frame": 3,
+      "empty": false,
+      "x": 125,
+      "y": 142,
+      "width": 244,
+      "height": 242,
+      "file": "d00_f003.png"
+    },
+    {
+      "index": 4,
+      "direction": 0,
+      "frame": 4,
+      "empty": false,
+      "x": 125,
+      "y": 142,
+      "width": 243,
+      "height": 238,
+      "file": "d00_f004.png"
+    },
+    {
+      "index": 5,
+      "direction": 0,
+      "frame": 5,
+      "empty": false,
+      "x": 116,
+      "y": 134,
+      "width": 238,
+      "height": 228,
+      "file": "d00_f005.png"
+    },
+    {
+      "index": 6,
+      "direction": 0,
+      "frame": 6,
+      "empty": false,
+      "x": 109,
+      "y": 129,
+      "width": 231,
+      "height": 216,
+      "file": "d00_f006.png"
+    },
+    {
+      "index": 7,
+      "direction": 0,
+      "frame": 7,
+      "empty": false,
+      "x": 102,
+      "y": 117,
+      "width": 217,
+      "height": 193,
+      "file": "d00_f007.png"
+    },
+    {
+      "index": 8,
+      "direction": 0,
+      "frame": 8,
+      "empty": false,
+      "x": 57,
+      "y": 82,
+      "width": 116,
+      "height": 117,
+      "file": "d00_f008.png"
+    },
+    {
+      "index": 9,
+      "direction": 0,
+      "frame": 9,
+      "empty": false,
+      "x": 57,
+      "y": 82,
+      "width": 116,
+      "height": 116,
+      "file": "d00_f009.png"
+    }
+  ],
+  "metadata": "metadata.json"
+}

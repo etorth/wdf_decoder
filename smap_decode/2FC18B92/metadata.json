@@ -1,0 +1,28 @@
+{
+  "id": "2FC18B92",
+  "uid": 801213330,
+  "offset": 4882408,
+  "size": 146456,
+  "space": 0,
+  "raw": "raw/2FC18B92.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 543,
+  "height": 314,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 543,
+      "height": 314,
+      "file": "2FC18B92/d00_f000.png"
+    }
+  ],
+  "metadata": "2FC18B92/metadata.json"
+}

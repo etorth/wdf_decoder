@@ -1,0 +1,28 @@
+{
+  "id": "C4523BAE",
+  "uid": 3293723566,
+  "offset": 18410656,
+  "size": 120756,
+  "space": 0,
+  "raw": "raw/C4523BAE.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 403,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 403,
+      "height": 309,
+      "file": "C4523BAE/d00_f000.png"
+    }
+  ],
+  "metadata": "C4523BAE/metadata.json"
+}

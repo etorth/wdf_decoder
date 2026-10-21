@@ -1,0 +1,28 @@
+{
+  "id": "1A82E34D",
+  "uid": 444785485,
+  "offset": 2081036,
+  "size": 390232,
+  "space": 0,
+  "raw": "raw/1A82E34D.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 607,
+  "height": 397,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 607,
+      "height": 397,
+      "file": "1A82E34D/d00_f000.png"
+    }
+  ],
+  "metadata": "1A82E34D/metadata.json"
+}

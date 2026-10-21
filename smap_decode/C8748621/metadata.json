@@ -1,0 +1,28 @@
+{
+  "id": "C8748621",
+  "uid": 3363079713,
+  "offset": 19681684,
+  "size": 162848,
+  "space": 0,
+  "raw": "raw/C8748621.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 592,
+  "height": 287,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 592,
+      "height": 287,
+      "file": "C8748621/d00_f000.png"
+    }
+  ],
+  "metadata": "C8748621/metadata.json"
+}

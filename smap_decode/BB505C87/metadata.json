@@ -1,0 +1,28 @@
+{
+  "id": "BB505C87",
+  "uid": 3142605959,
+  "offset": 17931968,
+  "size": 237848,
+  "space": 0,
+  "raw": "raw/BB505C87.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 480,
+  "height": 270,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 480,
+      "height": 270,
+      "file": "BB505C87/d00_f000.png"
+    }
+  ],
+  "metadata": "BB505C87/metadata.json"
+}

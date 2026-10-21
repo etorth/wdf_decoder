@@ -1,0 +1,255 @@
+{
+  "width": 2000,
+  "height": 1500,
+  "columns": 7,
+  "rows": 7,
+  "image": "map.png",
+  "tiles": [
+    {
+      "file": "tile_0000.jpg",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "file": "tile_0001.jpg",
+      "x": 320,
+      "y": 0
+    },
+    {
+      "file": "tile_0002.jpg",
+      "x": 640,
+      "y": 0
+    },
+    {
+      "file": "tile_0003.jpg",
+      "x": 960,
+      "y": 0
+    },
+    {
+      "file": "tile_0004.jpg",
+      "x": 1280,
+      "y": 0
+    },
+    {
+      "file": "tile_0005.jpg",
+      "x": 1600,
+      "y": 0
+    },
+    {
+      "file": "tile_0006.jpg",
+      "x": 1920,
+      "y": 0
+    },
+    {
+      "file": "tile_0007.jpg",
+      "x": 0,
+      "y": 240
+    },
+    {
+      "file": "tile_0008.jpg",
+      "x": 320,
+      "y": 240
+    },
+    {
+      "file": "tile_0009.jpg",
+      "x": 640,
+      "y": 240
+    },
+    {
+      "file": "tile_0010.jpg",
+      "x": 960,
+      "y": 240
+    },
+    {
+      "file": "tile_0011.jpg",
+      "x": 1280,
+      "y": 240
+    },
+    {
+      "file": "tile_0012.jpg",
+      "x": 1600,
+      "y": 240
+    },
+    {
+      "file": "tile_0013.jpg",
+      "x": 1920,
+      "y": 240
+    },
+    {
+      "file": "tile_0014.jpg",
+      "x": 0,
+      "y": 480
+    },
+    {
+      "file": "tile_0015.jpg",
+      "x": 320,
+      "y": 480
+    },
+    {
+      "file": "tile_0016.jpg",
+      "x": 640,
+      "y": 480
+    },
+    {
+      "file": "tile_0017.jpg",
+      "x": 960,
+      "y": 480
+    },
+    {
+      "file": "tile_0018.jpg",
+      "x": 1280,
+      "y": 480
+    },
+    {
+      "file": "tile_0019.jpg",
+      "x": 1600,
+      "y": 480
+    },
+    {
+      "file": "tile_0020.jpg",
+      "x": 1920,
+      "y": 480
+    },
+    {
+      "file": "tile_0021.jpg",
+      "x": 0,
+      "y": 720
+    },
+    {
+      "file": "tile_0022.jpg",
+      "x": 320,
+      "y": 720
+    },
+    {
+      "file": "tile_0023.jpg",
+      "x": 640,
+      "y": 720
+    },
+    {
+      "file": "tile_0024.jpg",
+      "x": 960,
+      "y": 720
+    },
+    {
+      "file": "tile_0025.jpg",
+      "x": 1280,
+      "y": 720
+    },
+    {
+      "file": "tile_0026.jpg",
+      "x": 1600,
+      "y": 720
+    },
+    {
+      "file": "tile_0027.jpg",
+      "x": 1920,
+      "y": 720
+    },
+    {
+      "file": "tile_0028.jpg",
+      "x": 0,
+      "y": 960
+    },
+    {
+      "file": "tile_0029.jpg",
+      "x": 320,
+      "y": 960
+    },
+    {
+      "file": "tile_0030.jpg",
+      "x": 640,
+      "y": 960
+    },
+    {
+      "file": "tile_0031.jpg",
+      "x": 960,
+      "y": 960
+    },
+    {
+      "file": "tile_0032.jpg",
+      "x": 1280,
+      "y": 960
+    },
+    {
+      "file": "tile_0033.jpg",
+      "x": 1600,
+      "y": 960
+    },
+    {
+      "file": "tile_0034.jpg",
+      "x": 1920,
+      "y": 960
+    },
+    {
+      "file": "tile_0035.jpg",
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "file": "tile_0036.jpg",
+      "x": 320,
+      "y": 1200
+    },
+    {
+      "file": "tile_0037.jpg",
+      "x": 640,
+      "y": 1200
+    },
+    {
+      "file": "tile_0038.jpg",
+      "x": 960,
+      "y": 1200
+    },
+    {
+      "file": "tile_0039.jpg",
+      "x": 1280,
+      "y": 1200
+    },
+    {
+      "file": "tile_0040.jpg",
+      "x": 1600,
+      "y": 1200
+    },
+    {
+      "file": "tile_0041.jpg",
+      "x": 1920,
+      "y": 1200
+    },
+    {
+      "file": "tile_0042.jpg",
+      "x": 0,
+      "y": 1440
+    },
+    {
+      "file": "tile_0043.jpg",
+      "x": 320,
+      "y": 1440
+    },
+    {
+      "file": "tile_0044.jpg",
+      "x": 640,
+      "y": 1440
+    },
+    {
+      "file": "tile_0045.jpg",
+      "x": 960,
+      "y": 1440
+    },
+    {
+      "file": "tile_0046.jpg",
+      "x": 1280,
+      "y": 1440
+    },
+    {
+      "file": "tile_0047.jpg",
+      "x": 1600,
+      "y": 1440
+    },
+    {
+      "file": "tile_0048.jpg",
+      "x": 1920,
+      "y": 1440
+    }
+  ],
+  "note": "Background only. Occlusion masks and collision data are retained in originals."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "00000210",
+  "uid": 528,
+  "offset": 22192727,
+  "size": 10556,
+  "space": 0,
+  "raw": "raw/00000210.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 96,
+  "height": 115,
+  "x": 19,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": -19,
+      "y": 0,
+      "width": 96,
+      "height": 115,
+      "file": "00000210/d00_f000.png"
+    }
+  ],
+  "metadata": "00000210/metadata.json"
+}

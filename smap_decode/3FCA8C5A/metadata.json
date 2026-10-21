@@ -1,0 +1,28 @@
+{
+  "id": "3FCA8C5A",
+  "uid": 1070238810,
+  "offset": 6734820,
+  "size": 120500,
+  "space": 0,
+  "raw": "raw/3FCA8C5A.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 403,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 403,
+      "height": 309,
+      "file": "3FCA8C5A/d00_f000.png"
+    }
+  ],
+  "metadata": "3FCA8C5A/metadata.json"
+}

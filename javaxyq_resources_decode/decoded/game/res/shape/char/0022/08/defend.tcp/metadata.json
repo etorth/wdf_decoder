@@ -1,0 +1,55 @@
+{
+  "directions": 4,
+  "frames_per_direction": 1,
+  "width": 88,
+  "height": 86,
+  "x": 44,
+  "y": 72,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 21,
+      "y": 49,
+      "width": 50,
+      "height": 61,
+      "file": "d00_f000.png"
+    },
+    {
+      "index": 1,
+      "direction": 1,
+      "frame": 0,
+      "empty": false,
+      "x": 42,
+      "y": 56,
+      "width": 35,
+      "height": 61,
+      "file": "d01_f000.png"
+    },
+    {
+      "index": 2,
+      "direction": 2,
+      "frame": 0,
+      "empty": false,
+      "x": 27,
+      "y": 71,
+      "width": 46,
+      "height": 60,
+      "file": "d02_f000.png"
+    },
+    {
+      "index": 3,
+      "direction": 3,
+      "frame": 0,
+      "empty": false,
+      "x": -7,
+      "y": 62,
+      "width": 36,
+      "height": 63,
+      "file": "d03_f000.png"
+    }
+  ],
+  "metadata": "metadata.json"
+}

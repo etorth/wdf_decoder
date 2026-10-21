@@ -1,0 +1,28 @@
+{
+  "id": "674490C6",
+  "uid": 1732546758,
+  "offset": 11347320,
+  "size": 132180,
+  "space": 0,
+  "raw": "raw/674490C6.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 543,
+  "height": 290,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 543,
+      "height": 290,
+      "file": "674490C6/d00_f000.png"
+    }
+  ],
+  "metadata": "674490C6/metadata.json"
+}

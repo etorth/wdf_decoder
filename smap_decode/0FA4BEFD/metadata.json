@@ -1,0 +1,28 @@
+{
+  "id": "0FA4BEFD",
+  "uid": 262455037,
+  "offset": 990236,
+  "size": 448836,
+  "space": 0,
+  "raw": "raw/0FA4BEFD.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 600,
+  "height": 400,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 400,
+      "file": "0FA4BEFD/d00_f000.png"
+    }
+  ],
+  "metadata": "0FA4BEFD/metadata.json"
+}

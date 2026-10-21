@@ -1,0 +1,28 @@
+{
+  "id": "C8011EF1",
+  "uid": 3355516657,
+  "offset": 18994256,
+  "size": 288960,
+  "space": 0,
+  "raw": "raw/C8011EF1.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 504,
+  "height": 385,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 504,
+      "height": 385,
+      "file": "C8011EF1/d00_f000.png"
+    }
+  ],
+  "metadata": "C8011EF1/metadata.json"
+}

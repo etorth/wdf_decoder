@@ -1,0 +1,28 @@
+{
+  "id": "A9B04C21",
+  "uid": 2846903329,
+  "offset": 15907024,
+  "size": 132000,
+  "space": 0,
+  "raw": "raw/A9B04C21.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 500,
+  "height": 250,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 500,
+      "height": 250,
+      "file": "A9B04C21/d00_f000.png"
+    }
+  ],
+  "metadata": "A9B04C21/metadata.json"
+}

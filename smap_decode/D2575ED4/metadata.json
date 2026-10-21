@@ -1,0 +1,28 @@
+{
+  "id": "D2575ED4",
+  "uid": 3528941268,
+  "offset": 21353252,
+  "size": 153800,
+  "space": 0,
+  "raw": "raw/D2575ED4.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 543,
+  "height": 323,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 543,
+      "height": 323,
+      "file": "D2575ED4/d00_f000.png"
+    }
+  ],
+  "metadata": "D2575ED4/metadata.json"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "5CD2D127",
+  "uid": 1557319975,
+  "offset": 10021240,
+  "size": 251672,
+  "space": 0,
+  "raw": "raw/5CD2D127.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 514,
+  "height": 331,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 514,
+      "height": 331,
+      "file": "5CD2D127/d00_f000.png"
+    }
+  ],
+  "metadata": "5CD2D127/metadata.json"
+}

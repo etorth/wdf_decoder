@@ -1,0 +1,28 @@
+{
+  "id": "B56504B2",
+  "uid": 3043296434,
+  "offset": 16824228,
+  "size": 97208,
+  "space": 0,
+  "raw": "raw/B56504B2.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 543,
+  "height": 316,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 543,
+      "height": 316,
+      "file": "B56504B2/d00_f000.png"
+    }
+  ],
+  "metadata": "B56504B2/metadata.json"
+}

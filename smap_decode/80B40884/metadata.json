@@ -1,0 +1,28 @@
+{
+  "id": "80B40884",
+  "uid": 2159282308,
+  "offset": 13166332,
+  "size": 134928,
+  "space": 0,
+  "raw": "raw/80B40884.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 454,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 454,
+      "height": 309,
+      "file": "80B40884/d00_f000.png"
+    }
+  ],
+  "metadata": "80B40884/metadata.json"
+}

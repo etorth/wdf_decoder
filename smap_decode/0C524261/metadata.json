@@ -1,0 +1,28 @@
+{
+  "id": "0C524261",
+  "uid": 206717537,
+  "offset": 640844,
+  "size": 197640,
+  "space": 0,
+  "raw": "raw/0C524261.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 405,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 405,
+      "height": 309,
+      "file": "0C524261/d00_f000.png"
+    }
+  ],
+  "metadata": "0C524261/metadata.json"
+}

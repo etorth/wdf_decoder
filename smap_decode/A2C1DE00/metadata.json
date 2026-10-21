@@ -1,0 +1,28 @@
+{
+  "id": "A2C1DE00",
+  "uid": 2730614272,
+  "offset": 15157444,
+  "size": 149676,
+  "space": 0,
+  "raw": "raw/A2C1DE00.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 543,
+  "height": 314,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 543,
+      "height": 314,
+      "file": "A2C1DE00/d00_f000.png"
+    }
+  ],
+  "metadata": "A2C1DE00/metadata.json"
+}

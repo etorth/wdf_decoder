@@ -1,0 +1,28 @@
+{
+  "id": "DBF85229",
+  "uid": 3690484265,
+  "offset": 21974928,
+  "size": 96872,
+  "space": 0,
+  "raw": "raw/DBF85229.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 543,
+  "height": 316,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 543,
+      "height": 316,
+      "file": "DBF85229/d00_f000.png"
+    }
+  ],
+  "metadata": "DBF85229/metadata.json"
+}

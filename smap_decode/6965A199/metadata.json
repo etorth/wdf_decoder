@@ -1,0 +1,28 @@
+{
+  "id": "6965A199",
+  "uid": 1768268185,
+  "offset": 11848340,
+  "size": 157292,
+  "space": 0,
+  "raw": "raw/6965A199.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 459,
+  "height": 287,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 459,
+      "height": 287,
+      "file": "6965A199/d00_f000.png"
+    }
+  ],
+  "metadata": "6965A199/metadata.json"
+}

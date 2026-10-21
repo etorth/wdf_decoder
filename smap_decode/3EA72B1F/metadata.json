@@ -1,0 +1,28 @@
+{
+  "id": "3EA72B1F",
+  "uid": 1051142943,
+  "offset": 6582312,
+  "size": 152508,
+  "space": 0,
+  "raw": "raw/3EA72B1F.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 543,
+  "height": 313,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 543,
+      "height": 313,
+      "file": "3EA72B1F/d00_f000.png"
+    }
+  ],
+  "metadata": "3EA72B1F/metadata.json"
+}

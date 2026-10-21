@@ -1,0 +1,28 @@
+{
+  "id": "1DF0967E",
+  "uid": 502306430,
+  "offset": 2471268,
+  "size": 118076,
+  "space": 0,
+  "raw": "raw/1DF0967E.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 407,
+  "height": 307,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 407,
+      "height": 307,
+      "file": "1DF0967E/d00_f000.png"
+    }
+  ],
+  "metadata": "1DF0967E/metadata.json"
+}

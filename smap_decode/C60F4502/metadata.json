@@ -1,0 +1,28 @@
+{
+  "id": "C60F4502",
+  "uid": 3322889474,
+  "offset": 18531412,
+  "size": 282368,
+  "space": 0,
+  "raw": "raw/C60F4502.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 550,
+  "height": 333,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 550,
+      "height": 333,
+      "file": "C60F4502/d00_f000.png"
+    }
+  ],
+  "metadata": "C60F4502/metadata.json"
+}

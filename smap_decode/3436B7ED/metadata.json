@@ -1,0 +1,28 @@
+{
+  "id": "3436B7ED",
+  "uid": 876001261,
+  "offset": 5566576,
+  "size": 185476,
+  "space": 0,
+  "raw": "raw/3436B7ED.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 405,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 405,
+      "height": 309,
+      "file": "3436B7ED/d00_f000.png"
+    }
+  ],
+  "metadata": "3436B7ED/metadata.json"
+}

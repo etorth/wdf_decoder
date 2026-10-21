@@ -1,0 +1,28 @@
+{
+  "id": "BA6FC6C2",
+  "uid": 3127887554,
+  "offset": 17806956,
+  "size": 125012,
+  "space": 0,
+  "raw": "raw/BA6FC6C2.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 406,
+  "height": 313,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 406,
+      "height": 313,
+      "file": "BA6FC6C2/d00_f000.png"
+    }
+  ],
+  "metadata": "BA6FC6C2/metadata.json"
+}

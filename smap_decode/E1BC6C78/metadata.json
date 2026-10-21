@@ -1,0 +1,28 @@
+{
+  "id": "E1BC6C78",
+  "uid": 3787222136,
+  "offset": 23289008,
+  "size": 195408,
+  "space": 0,
+  "raw": "raw/E1BC6C78.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 405,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 405,
+      "height": 309,
+      "file": "E1BC6C78/d00_f000.png"
+    }
+  ],
+  "metadata": "E1BC6C78/metadata.json"
+}

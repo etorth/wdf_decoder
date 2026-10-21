@@ -1,0 +1,28 @@
+{
+  "id": "DE4D90EE",
+  "uid": 3729625326,
+  "offset": 22182100,
+  "size": 187392,
+  "space": 0,
+  "raw": "raw/DE4D90EE.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 405,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 405,
+      "height": 309,
+      "file": "DE4D90EE/d00_f000.png"
+    }
+  ],
+  "metadata": "DE4D90EE/metadata.json"
+}

@@ -1,0 +1,22 @@
+{
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 200,
+  "height": 310,
+  "x": 82,
+  "y": 304,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 82,
+      "y": 304,
+      "width": 200,
+      "height": 310,
+      "file": "d00_f000.png"
+    }
+  ],
+  "metadata": "metadata.json"
+}

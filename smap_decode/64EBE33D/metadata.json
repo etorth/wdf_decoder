@@ -1,0 +1,28 @@
+{
+  "id": "64EBE33D",
+  "uid": 1693180733,
+  "offset": 11030128,
+  "size": 317192,
+  "space": 0,
+  "raw": "raw/64EBE33D.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 576,
+  "height": 357,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 576,
+      "height": 357,
+      "file": "64EBE33D/d00_f000.png"
+    }
+  ],
+  "metadata": "64EBE33D/metadata.json"
+}

@@ -1,0 +1,55 @@
+{
+  "width": 800,
+  "height": 600,
+  "columns": 3,
+  "rows": 3,
+  "image": "map.png",
+  "tiles": [
+    {
+      "file": "tile_0000.jpg",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "file": "tile_0001.jpg",
+      "x": 320,
+      "y": 0
+    },
+    {
+      "file": "tile_0002.jpg",
+      "x": 640,
+      "y": 0
+    },
+    {
+      "file": "tile_0003.jpg",
+      "x": 0,
+      "y": 240
+    },
+    {
+      "file": "tile_0004.jpg",
+      "x": 320,
+      "y": 240
+    },
+    {
+      "file": "tile_0005.jpg",
+      "x": 640,
+      "y": 240
+    },
+    {
+      "file": "tile_0006.jpg",
+      "x": 0,
+      "y": 480
+    },
+    {
+      "file": "tile_0007.jpg",
+      "x": 320,
+      "y": 480
+    },
+    {
+      "file": "tile_0008.jpg",
+      "x": 640,
+      "y": 480
+    }
+  ],
+  "note": "Background only. Occlusion masks and collision data are retained in originals."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "22D0EB49",
+  "uid": 584117065,
+  "offset": 3284704,
+  "size": 136764,
+  "space": 0,
+  "raw": "raw/22D0EB49.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 543,
+  "height": 283,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 543,
+      "height": 283,
+      "file": "22D0EB49/d00_f000.png"
+    }
+  ],
+  "metadata": "22D0EB49/metadata.json"
+}

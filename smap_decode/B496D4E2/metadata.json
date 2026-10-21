@@ -1,0 +1,28 @@
+{
+  "id": "B496D4E2",
+  "uid": 3029783778,
+  "offset": 16622828,
+  "size": 103636,
+  "space": 0,
+  "raw": "raw/B496D4E2.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 619,
+  "height": 119,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 619,
+      "height": 119,
+      "file": "B496D4E2/d00_f000.png"
+    }
+  ],
+  "metadata": "B496D4E2/metadata.json"
+}

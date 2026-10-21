@@ -1,0 +1,28 @@
+{
+  "id": "8996BDDE",
+  "uid": 2308357598,
+  "offset": 13855192,
+  "size": 99164,
+  "space": 0,
+  "raw": "raw/8996BDDE.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 237,
+  "height": 433,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 237,
+      "height": 433,
+      "file": "8996BDDE/d00_f000.png"
+    }
+  ],
+  "metadata": "8996BDDE/metadata.json"
+}

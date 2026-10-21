@@ -1,0 +1,28 @@
+{
+  "id": "CA423A29",
+  "uid": 3393337897,
+  "offset": 20076484,
+  "size": 432644,
+  "space": 0,
+  "raw": "raw/CA423A29.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 600,
+  "height": 400,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 400,
+      "file": "CA423A29/d00_f000.png"
+    }
+  ],
+  "metadata": "CA423A29/metadata.json"
+}

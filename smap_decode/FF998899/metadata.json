@@ -1,0 +1,28 @@
+{
+  "id": "FF998899",
+  "uid": 4288252057,
+  "offset": 24587248,
+  "size": 146500,
+  "space": 0,
+  "raw": "raw/FF998899.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 543,
+  "height": 301,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 543,
+      "height": 301,
+      "file": "FF998899/d00_f000.png"
+    }
+  ],
+  "metadata": "FF998899/metadata.json"
+}

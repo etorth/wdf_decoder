@@ -1,0 +1,28 @@
+{
+  "id": "C7FC4164",
+  "uid": 3355197796,
+  "offset": 18813780,
+  "size": 180476,
+  "space": 0,
+  "raw": "raw/C7FC4164.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 556,
+  "height": 342,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 556,
+      "height": 342,
+      "file": "C7FC4164/d00_f000.png"
+    }
+  ],
+  "metadata": "C7FC4164/metadata.json"
+}

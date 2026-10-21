@@ -1,0 +1,28 @@
+{
+  "id": "B762E0D6",
+  "uid": 3076710614,
+  "offset": 17278200,
+  "size": 130332,
+  "space": 0,
+  "raw": "raw/B762E0D6.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 500,
+  "height": 250,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 500,
+      "height": 250,
+      "file": "B762E0D6/d00_f000.png"
+    }
+  ],
+  "metadata": "B762E0D6/metadata.json"
+}

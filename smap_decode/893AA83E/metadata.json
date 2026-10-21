@@ -1,0 +1,28 @@
+{
+  "id": "893AA83E",
+  "uid": 2302322750,
+  "offset": 13601560,
+  "size": 253632,
+  "space": 0,
+  "raw": "raw/893AA83E.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 514,
+  "height": 331,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 514,
+      "height": 331,
+      "file": "893AA83E/d00_f000.png"
+    }
+  ],
+  "metadata": "893AA83E/metadata.json"
+}

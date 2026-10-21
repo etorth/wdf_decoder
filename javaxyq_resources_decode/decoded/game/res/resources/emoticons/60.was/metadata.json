@@ -1,0 +1,132 @@
+{
+  "directions": 1,
+  "frames_per_direction": 11,
+  "width": 38,
+  "height": 27,
+  "x": 7,
+  "y": 27,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 5,
+      "y": 24,
+      "width": 35,
+      "height": 19,
+      "file": "d00_f000.png"
+    },
+    {
+      "index": 1,
+      "direction": 0,
+      "frame": 1,
+      "empty": false,
+      "x": -1,
+      "y": 26,
+      "width": 23,
+      "height": 21,
+      "file": "d00_f001.png"
+    },
+    {
+      "index": 2,
+      "direction": 0,
+      "frame": 2,
+      "empty": false,
+      "x": -1,
+      "y": 27,
+      "width": 22,
+      "height": 23,
+      "file": "d00_f002.png"
+    },
+    {
+      "index": 3,
+      "direction": 0,
+      "frame": 3,
+      "empty": false,
+      "x": 0,
+      "y": 27,
+      "width": 26,
+      "height": 24,
+      "file": "d00_f003.png"
+    },
+    {
+      "index": 4,
+      "direction": 0,
+      "frame": 4,
+      "empty": false,
+      "x": 5,
+      "y": 26,
+      "width": 36,
+      "height": 22,
+      "file": "d00_f004.png"
+    },
+    {
+      "index": 5,
+      "direction": 0,
+      "frame": 5,
+      "empty": false,
+      "x": 7,
+      "y": 24,
+      "width": 38,
+      "height": 21,
+      "file": "d00_f005.png"
+    },
+    {
+      "index": 6,
+      "direction": 0,
+      "frame": 6,
+      "empty": false,
+      "x": 7,
+      "y": 24,
+      "width": 38,
+      "height": 24,
+      "file": "d00_f006.png"
+    },
+    {
+      "index": 7,
+      "direction": 0,
+      "frame": 7,
+      "empty": false,
+      "x": 7,
+      "y": 24,
+      "width": 38,
+      "height": 24,
+      "file": "d00_f007.png"
+    },
+    {
+      "index": 8,
+      "direction": 0,
+      "frame": 8,
+      "empty": false,
+      "x": 7,
+      "y": 24,
+      "width": 38,
+      "height": 21,
+      "file": "d00_f008.png"
+    },
+    {
+      "index": 9,
+      "direction": 0,
+      "frame": 9,
+      "empty": false,
+      "x": 7,
+      "y": 24,
+      "width": 38,
+      "height": 21,
+      "file": "d00_f009.png"
+    },
+    {
+      "index": 10,
+      "direction": 0,
+      "frame": 10,
+      "empty": false,
+      "x": 7,
+      "y": 24,
+      "width": 38,
+      "height": 21,
+      "file": "d00_f010.png"
+    }
+  ],
+  "metadata": "metadata.json"
+}

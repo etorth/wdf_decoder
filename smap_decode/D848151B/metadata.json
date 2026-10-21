@@ -1,0 +1,28 @@
+{
+  "id": "D848151B",
+  "uid": 3628602651,
+  "offset": 21832028,
+  "size": 142900,
+  "space": 0,
+  "raw": "raw/D848151B.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 509,
+  "height": 299,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 509,
+      "height": 299,
+      "file": "D848151B/d00_f000.png"
+    }
+  ],
+  "metadata": "D848151B/metadata.json"
+}

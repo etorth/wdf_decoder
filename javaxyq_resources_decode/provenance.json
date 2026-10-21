@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/valuetodays/javaxyq-im",
+  "revision": "65721a683c61c4393f281db3bac805bc41cf8f8d",
+  "command": "python3 decode_resources.py javaxyq-im -o javaxyq_resources_decode",
+  "team_leader_marker": "decoded/game/res/addon/2231ebb4/index.html",
+  "notes": [
+    "Source files are preserved byte-for-byte under originals/.",
+    "Asset rights remain with their respective owners.",
+    "Map exports contain stitched backgrounds, not rendered occlusion masks."
+  ]
+}

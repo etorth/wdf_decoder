@@ -1,0 +1,28 @@
+{
+  "id": "2611E02E",
+  "uid": 638705710,
+  "offset": 3756796,
+  "size": 230804,
+  "space": 0,
+  "raw": "raw/2611E02E.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 603,
+  "height": 388,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 603,
+      "height": 388,
+      "file": "2611E02E/d00_f000.png"
+    }
+  ],
+  "metadata": "2611E02E/metadata.json"
+}

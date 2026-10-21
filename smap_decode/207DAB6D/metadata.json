@@ -1,0 +1,28 @@
+{
+  "id": "207DAB6D",
+  "uid": 545106797,
+  "offset": 2917312,
+  "size": 247068,
+  "space": 0,
+  "raw": "raw/207DAB6D.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 543,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 543,
+      "height": 309,
+      "file": "207DAB6D/d00_f000.png"
+    }
+  ],
+  "metadata": "207DAB6D/metadata.json"
+}

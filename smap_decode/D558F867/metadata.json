@@ -1,0 +1,28 @@
+{
+  "id": "D558F867",
+  "uid": 3579377767,
+  "offset": 21712272,
+  "size": 119756,
+  "space": 0,
+  "raw": "raw/D558F867.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 404,
+  "height": 306,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 404,
+      "height": 306,
+      "file": "D558F867/d00_f000.png"
+    }
+  ],
+  "metadata": "D558F867/metadata.json"
+}

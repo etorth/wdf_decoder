@@ -1,0 +1,28 @@
+{
+  "id": "099565A8",
+  "uid": 160785832,
+  "offset": 412456,
+  "size": 228388,
+  "space": 0,
+  "raw": "raw/099565A8.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 459,
+  "height": 329,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 459,
+      "height": 329,
+      "file": "099565A8/d00_f000.png"
+    }
+  ],
+  "metadata": "099565A8/metadata.json"
+}

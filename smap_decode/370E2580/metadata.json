@@ -1,0 +1,28 @@
+{
+  "id": "370E2580",
+  "uid": 923673984,
+  "offset": 6133664,
+  "size": 84044,
+  "space": 0,
+  "raw": "raw/370E2580.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 246,
+  "height": 353,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 246,
+      "height": 353,
+      "file": "370E2580/d00_f000.png"
+    }
+  ],
+  "metadata": "370E2580/metadata.json"
+}

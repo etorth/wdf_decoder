@@ -1,0 +1,28 @@
+{
+  "id": "A4EA11C8",
+  "uid": 2766803400,
+  "offset": 15554172,
+  "size": 72812,
+  "space": 0,
+  "raw": "raw/A4EA11C8.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 246,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 246,
+      "height": 309,
+      "file": "A4EA11C8/d00_f000.png"
+    }
+  ],
+  "metadata": "A4EA11C8/metadata.json"
+}

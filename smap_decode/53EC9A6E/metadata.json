@@ -1,0 +1,28 @@
+{
+  "id": "53EC9A6E",
+  "uid": 1408014958,
+  "offset": 8931336,
+  "size": 149240,
+  "space": 0,
+  "raw": "raw/53EC9A6E.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 543,
+  "height": 314,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 543,
+      "height": 314,
+      "file": "53EC9A6E/d00_f000.png"
+    }
+  ],
+  "metadata": "53EC9A6E/metadata.json"
+}

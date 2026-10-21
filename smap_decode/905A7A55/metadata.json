@@ -1,0 +1,28 @@
+{
+  "id": "905A7A55",
+  "uid": 2421848661,
+  "offset": 14129800,
+  "size": 149240,
+  "space": 0,
+  "raw": "raw/905A7A55.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 405,
+  "height": 380,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 405,
+      "height": 380,
+      "file": "905A7A55/d00_f000.png"
+    }
+  ],
+  "metadata": "905A7A55/metadata.json"
+}

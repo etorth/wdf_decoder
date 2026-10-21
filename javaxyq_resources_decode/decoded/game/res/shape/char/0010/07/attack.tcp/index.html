@@ -1,0 +1,47 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>WDF sprite preview</title>
+<style>
+body{font:16px system-ui;background:#202124;color:#eee;margin:24px}
+#gallery{display:flex;flex-wrap:wrap;gap:16px}
+article{background:#303134;padding:12px;width:240px}
+canvas{width:240px;height:240px;object-fit:contain;
+background:repeating-conic-gradient(#555 0% 25%,#444 0% 50%) 0/16px 16px}
+select{margin:8px} a{color:#9cf}
+</style>
+<h1>WDF sprite preview</h1>
+<p>One card per resource. Select a direction; animations run at 10 fps
+(preview speed, not timing stored in the source). PNGs retain transparency.</p>
+<div id="gallery"></div>
+<script id="manifest" type="application/json">{"entries": [{"directions": 4, "frames_per_direction": 11, "width": 284, "height": 188, "x": 142, "y": 121, "frames": [{"index": 0, "direction": 0, "frame": 0, "empty": false, "x": 115, "y": 66, "width": 147, "height": 74, "file": "d00_f000.png"}, {"index": 1, "direction": 0, "frame": 1, "empty": false, "x": 75, "y": 51, "width": 116, "height": 88, "file": "d00_f001.png"}, {"index": 2, "direction": 0, "frame": 2, "empty": false, "x": 10, "y": 88, "width": 59, "height": 112, "file": "d00_f002.png"}, {"index": 3, "direction": 0, "frame": 3, "empty": false, "x": 69, "y": 72, "width": 158, "height": 42, "file": "d00_f003.png"}, {"index": 4, "direction": 0, "frame": 4, "empty": false, "x": 58, "y": 91, "width": 119, "height": 61, "file": "d00_f004.png"}, {"index": 5, "direction": 0, "frame": 5, "empty": false, "x": 37, "y": 85, "width": 61, "height": 64, "file": "d00_f005.png"}, {"index": 6, "direction": 0, "frame": 6, "empty": false, "x": 7, "y": 37, "width": 127, "height": 89, "file": "d00_f006.png"}, {"index": 7, "direction": 0, "frame": 7, "empty": false, "x": 1, "y": 33, "width": 124, "height": 90, "file": "d00_f007.png"}, {"index": 8, "direction": 0, "frame": 8, "empty": false, "x": 8, "y": 23, "width": 97, "height": 54, "file": "d00_f008.png"}, {"index": 9, "direction": 0, "frame": 9, "empty": false, "x": 6, "y": 28, "width": 26, "height": 58, "file": "d00_f009.png"}, {"index": 10, "direction": 0, "frame": 10, "empty": false, "x": 16, "y": 47, "width": 76, "height": 40, "file": "d00_f010.png"}, {"index": 11, "direction": 1, "frame": 0, "empty": false, "x": -7, "y": 47, "width": 20, "height": 18, "file": "d01_f000.png"}, {"index": 12, "direction": 1, "frame": 1, "empty": false, "x": 76, "y": 67, "width": 116, "height": 88, "file": "d01_f001.png"}, {"index": 13, "direction": 1, "frame": 2, "empty": false, "x": 78, "y": 58, "width": 154, "height": 68, "file": "d01_f002.png"}, {"index": 14, "direction": 1, "frame": 3, "empty": false, "x": 11, "y": 92, "width": 31, "height": 103, "file": "d01_f003.png"}, {"index": 15, "direction": 1, "frame": 4, "empty": false, "x": 49, "y": 93, "width": 117, "height": 76, "file": "d01_f004.png"}, {"index": 16, "direction": 1, "frame": 5, "empty": false, "x": 78, "y": 68, "width": 154, "height": 24, "file": "d01_f005.png"}, {"index": 17, "direction": 1, "frame": 6, "empty": false, "x": 112, "y": 41, "width": 98, "height": 100, "file": "d01_f006.png"}, {"index": 18, "direction": 1, "frame": 7, "empty": false, "x": 116, "y": 16, "width": 81, "height": 76, "file": "d01_f007.png"}, {"index": 19, "direction": 1, "frame": 8, "empty": false, "x": 139, "y": 27, "width": 130, "height": 35, "file": "d01_f008.png"}, {"index": 20, "direction": 1, "frame": 9, "empty": false, "x": 137, "y": 52, "width": 157, "height": 51, "file": "d01_f009.png"}, {"index": 21, "direction": 1, "frame": 10, "empty": false, "x": 55, "y": 26, "width": 143, "height": 35, "file": "d01_f010.png"}, {"index": 22, "direction": 2, "frame": 0, "empty": false, "x": 35, "y": 51, "width": 151, "height": 63, "file": "d02_f000.png"}, {"index": 23, "direction": 2, "frame": 1, "empty": false, "x": 38, "y": 49, "width": 114, "height": 51, "file": "d02_f001.png"}, {"index": 24, "direction": 2, "frame": 2, "empty": false, "x": 47, "y": 63, "width": 56, "height": 59, "file": "d02_f002.png"}, {"index": 25, "direction": 2, "frame": 3, "empty": false, "x": 93, "y": 60, "width": 165, "height": 37, "file": "d02_f003.png"}, {"index": 26, "direction": 2, "frame": 4, "empty": false, "x": 64, "y": 91, "width": 119, "height": 75, "file": "d02_f004.png"}, {"index": 27, "direction": 2, "frame": 5, "empty": false, "x": 26, "y": 106, "width": 63, "height": 105, "file": "d02_f005.png"}, {"index": 28, "direction": 2, "frame": 6, "empty": false, "x": 117, "y": 74, "width": 123, "height": 40, "file": "d02_f006.png"}, {"index": 29, "direction": 2, "frame": 7, "empty": false, "x": 122, "y": 72, "width": 122, "height": 40, "file": "d02_f007.png"}, {"index": 30, "direction": 2, "frame": 8, "empty": false, "x": 87, "y": 117, "width": 97, "height": 95, "file": "d02_f008.png"}, {"index": 31, "direction": 2, "frame": 9, "empty": false, "x": 19, "y": 116, "width": 24, "height": 116, "file": "d02_f009.png"}, {"index": 32, "direction": 2, "frame": 10, "empty": false, "x": 61, "y": 72, "width": 80, "height": 115, "file": "d02_f010.png"}, {"index": 33, "direction": 3, "frame": 0, "empty": false, "x": 27, "y": 68, "width": 37, "height": 133, "file": "d03_f000.png"}, {"index": 34, "direction": 3, "frame": 1, "empty": false, "x": 43, "y": 33, "width": 119, "height": 50, "file": "d03_f001.png"}, {"index": 35, "direction": 3, "frame": 2, "empty": false, "x": 75, "y": 58, "width": 154, "height": 30, "file": "d03_f002.png"}, {"index": 36, "direction": 3, "frame": 3, "empty": false, "x": 22, "y": 83, "width": 20, "height": 68, "file": "d03_f003.png"}, {"index": 37, "direction": 3, "frame": 4, "empty": false, "x": 66, "y": 91, "width": 117, "height": 63, "file": "d03_f004.png"}, {"index": 38, "direction": 3, "frame": 5, "empty": false, "x": 74, "y": 82, "width": 154, "height": 63, "file": "d03_f005.png"}, {"index": 39, "direction": 3, "frame": 6, "empty": false, "x": -10, "y": 76, "width": 102, "height": 46, "file": "d03_f006.png"}, {"index": 40, "direction": 3, "frame": 7, "empty": false, "x": -10, "y": 77, "width": 106, "height": 49, "file": "d03_f007.png"}, {"index": 41, "direction": 3, "frame": 8, "empty": false, "x": -7, "y": 95, "width": 133, "height": 82, "file": "d03_f008.png"}, {"index": 42, "direction": 3, "frame": 9, "empty": false, "x": 17, "y": 58, "width": 157, "height": 48, "file": "d03_f009.png"}, {"index": 43, "direction": 3, "frame": 10, "empty": false, "x": 86, "y": 72, "width": 138, "height": 78, "file": "d03_f010.png"}], "metadata": "metadata.json", "id": "game/res/shape/char/0010/07/attack.tcp"}]}</script>
+<script>
+const manifest=JSON.parse(document.getElementById('manifest').textContent);
+for(const resource of manifest.entries){
+ if(!resource.frames) continue;
+ const card=document.createElement('article'), title=document.createElement('div');
+ title.textContent=resource.id+' / '+resource.directions+' directions';
+ const select=document.createElement('select');
+ for(let d=0;d<resource.directions;d++)select.add(new Option('Direction '+d,d));
+ const canvas=document.createElement('canvas'), ctx=canvas.getContext('2d');
+ const frames=resource.frames.filter(f=>!f.empty);
+ if(!frames.length)continue;
+ const left=Math.min(...frames.map(f=>-f.x)),top=Math.min(...frames.map(f=>-f.y));
+ canvas.width=Math.max(...frames.map(f=>f.width-f.x))-left;
+ canvas.height=Math.max(...frames.map(f=>f.height-f.y))-top;
+ const images=resource.frames.map(f=>{
+  if(f.empty)return null;
+  const image=new Image();image.src=f.file;return image;
+ });
+ let tick=0;
+ const link=document.createElement('a');link.href=resource.metadata;link.textContent='metadata';
+ card.append(title,select,link,canvas);document.getElementById('gallery').append(card);
+ function draw(){
+  const i=Number(select.value)*resource.frames_per_direction+tick%resource.frames_per_direction;
+  const f=resource.frames[i],image=images[i];
+  ctx.clearRect(0,0,canvas.width,canvas.height);
+  if(image&&image.complete&&image.naturalWidth)ctx.drawImage(image,-f.x-left,-f.y-top);
+  tick++;
+ }
+ setInterval(draw,100);draw();
+}
+</script>

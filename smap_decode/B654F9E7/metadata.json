@@ -1,0 +1,28 @@
+{
+  "id": "B654F9E7",
+  "uid": 3059022311,
+  "offset": 17073396,
+  "size": 204804,
+  "space": 0,
+  "raw": "raw/B654F9E7.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 556,
+  "height": 378,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 556,
+      "height": 378,
+      "file": "B654F9E7/d00_f000.png"
+    }
+  ],
+  "metadata": "B654F9E7/metadata.json"
+}

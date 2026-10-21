@@ -1,0 +1,28 @@
+{
+  "id": "3303D9A1",
+  "uid": 855890337,
+  "offset": 5291176,
+  "size": 93316,
+  "space": 0,
+  "raw": "raw/3303D9A1.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 312,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 312,
+      "height": 309,
+      "file": "3303D9A1/d00_f000.png"
+    }
+  ],
+  "metadata": "3303D9A1/metadata.json"
+}

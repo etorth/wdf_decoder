@@ -1,0 +1,28 @@
+{
+  "id": "9D88ED61",
+  "uid": 2642996577,
+  "offset": 14857720,
+  "size": 123020,
+  "space": 0,
+  "raw": "raw/9D88ED61.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 303,
+  "height": 433,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 303,
+      "height": 433,
+      "file": "9D88ED61/d00_f000.png"
+    }
+  ],
+  "metadata": "9D88ED61/metadata.json"
+}

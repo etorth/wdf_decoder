@@ -1,0 +1,28 @@
+{
+  "id": "30CBF5F6",
+  "uid": 818673142,
+  "offset": 5172456,
+  "size": 118720,
+  "space": 0,
+  "raw": "raw/30CBF5F6.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 405,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 405,
+      "height": 309,
+      "file": "30CBF5F6/d00_f000.png"
+    }
+  ],
+  "metadata": "30CBF5F6/metadata.json"
+}

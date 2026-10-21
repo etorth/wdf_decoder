@@ -1,0 +1,28 @@
+{
+  "id": "477D2153",
+  "uid": 1199382867,
+  "offset": 7406164,
+  "size": 286884,
+  "space": 0,
+  "raw": "raw/477D2153.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 576,
+  "height": 357,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 576,
+      "height": 357,
+      "file": "477D2153/d00_f000.png"
+    }
+  ],
+  "metadata": "477D2153/metadata.json"
+}

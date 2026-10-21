@@ -1,0 +1,28 @@
+{
+  "id": "C9E935A3",
+  "uid": 3387504035,
+  "offset": 19956776,
+  "size": 119708,
+  "space": 0,
+  "raw": "raw/C9E935A3.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 404,
+  "height": 306,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 404,
+      "height": 306,
+      "file": "C9E935A3/d00_f000.png"
+    }
+  ],
+  "metadata": "C9E935A3/metadata.json"
+}

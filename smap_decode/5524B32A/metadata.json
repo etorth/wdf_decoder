@@ -1,0 +1,28 @@
+{
+  "id": "5524B32A",
+  "uid": 1428468522,
+  "offset": 9175612,
+  "size": 140716,
+  "space": 0,
+  "raw": "raw/5524B32A.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 475,
+  "height": 309,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 475,
+      "height": 309,
+      "file": "5524B32A/d00_f000.png"
+    }
+  ],
+  "metadata": "5524B32A/metadata.json"
+}

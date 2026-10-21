@@ -1,0 +1,28 @@
+{
+  "id": "E0B9A595",
+  "uid": 3770262933,
+  "offset": 22846020,
+  "size": 442988,
+  "space": 0,
+  "raw": "raw/E0B9A595.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 600,
+  "height": 400,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 400,
+      "file": "E0B9A595/d00_f000.png"
+    }
+  ],
+  "metadata": "E0B9A595/metadata.json"
+}

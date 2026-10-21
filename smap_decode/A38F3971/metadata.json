@@ -1,0 +1,28 @@
+{
+  "id": "A38F3971",
+  "uid": 2744072561,
+  "offset": 15307120,
+  "size": 126300,
+  "space": 0,
+  "raw": "raw/A38F3971.was",
+  "directions": 1,
+  "frames_per_direction": 1,
+  "width": 287,
+  "height": 453,
+  "x": 0,
+  "y": 0,
+  "frames": [
+    {
+      "index": 0,
+      "direction": 0,
+      "frame": 0,
+      "empty": false,
+      "x": 0,
+      "y": 0,
+      "width": 287,
+      "height": 453,
+      "file": "A38F3971/d00_f000.png"
+    }
+  ],
+  "metadata": "A38F3971/metadata.json"
+}
